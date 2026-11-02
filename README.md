@@ -71,6 +71,18 @@ A personal AI assistant built in Python, aimed at a smooth desktop experience.
 
 ---
 
+## 👾 Contribution Arcade
+
+<div align="center">
+
+![pacman contribution graph](https://raw.githubusercontent.com/reshamkumar8899-droid/reshamkumar8899-droid/pacman-output/pacman-contribution-graph.svg)
+
+Generated twice a day by [GitHub Actions](https://github.com/reshamkumar8899-droid/reshamkumar8899-droid/actions)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
